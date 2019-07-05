@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>For Developement to work 3.0</h2>
+<h2>COD Implemented</h2>
+<h2>Net Bank Implemented</h2>
 </body>
 </html>
