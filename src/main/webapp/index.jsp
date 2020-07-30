@@ -1,8 +1,10 @@
 <html>
+<title>
+Bank Application
+</title>
 <body>
-<h2>COD Implemented</h2>
-<h2>Net Bank Implemented</h2>
-<h2>Debit Card Implemented</h2>
-<h2>UPI Payment Implemented</h2>
+<center>
+<h1>COD Implemented</h1>
+</center>
 </body>
 </html>
